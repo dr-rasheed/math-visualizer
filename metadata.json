@@ -1,0 +1,5 @@
+{
+  "name": "Math Visualizer",
+  "description": "An interactive application to visualize beautiful mathematical functions and explore how parameters affect their shapes.",
+  "requestFramePermissions": []
+}
